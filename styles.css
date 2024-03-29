@@ -134,7 +134,7 @@ nav{
     background-color: rgb(64, 5, 106);
 }
 .sliderItem:nth-child(4) .sliderBG{
-    background-color: lightblue;
+    background-color: rgb(43, 27, 133);
 }
 .sliderItem:nth-child(5) .sliderBG{
     background-color: lightcoral;
@@ -150,7 +150,7 @@ nav{
     color: rgb(64, 5, 106);
 }
 .sliderItem:nth-child(4) .sliderPrice{
-    color: lightblue;
+    color: rgb(43, 27, 133);
 }
 .sliderItem:nth-child(5) .sliderPrice{
     color: lightcoral;
@@ -170,7 +170,7 @@ nav{
 .sliderItem:nth-child(2) .sliderTitle{
     position: absolute;
     top: 25%;
-    right: 8%;
+    right: 5%;
     font-size: 80px;
     font-weight: 700;
     text-align: center;
@@ -180,7 +180,7 @@ nav{
 .sliderItem:nth-child(3) .sliderTitle{
     position: absolute;
     top: 25%;
-    right: 8%;
+    right: 11%;
     font-size: 80px;
     font-weight: 700;
     text-align: center;
@@ -190,7 +190,7 @@ nav{
 .sliderItem:nth-child(4) .sliderTitle{
     position: absolute;
     top: 25%;
-    right: 8%;
+    right: 12%;
     font-size: 80px;
     font-weight: 700;
     text-align: center;
@@ -200,10 +200,12 @@ nav{
 .sliderItem:nth-child(5) .sliderTitle{
     position: absolute;
     top: 25%;
-    right: 8%;
+    right: 13%;
     font-size: 80px;
     font-weight: 700;
     text-align: center;
     color: whitesmoke;
     z-index: 1;
 }
+
+
